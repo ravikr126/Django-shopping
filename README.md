@@ -1,1 +1,1 @@
-# Django-shopping
+# Django-shopping site
